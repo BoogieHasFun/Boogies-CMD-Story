@@ -8,4 +8,5 @@ Requirements: DotNet 6.0, VS Code, and Basic C# skills.
 ----
 
 ### [Source Code Download](https://github.com/BoogieHasFun/Boogies-CMD-Story/releases/download/0.1/CMD.Story.Ver.0.1.zip)
+### [Website](https://boogiehasfun.github.io/Boogies-CMD-Story/)
 
