@@ -24,5 +24,9 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Download a Build Artifact
-      uses: actions/download-artifact@v2.1.0 
-      
+      uses: actions/download-artifact@v2.1.0
+      with:
+        # Artifact name
+        name: CMD-Story
+        # Destination path
+        path: n
