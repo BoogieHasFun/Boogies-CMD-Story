@@ -40,7 +40,8 @@ Available Options:
   ignore: Do not output any warnings or errors, the action does not fail
 
 if-no-files-found: warn
-Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
+
+90
 
     retention-days: 90
 
